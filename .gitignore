@@ -1,0 +1,18 @@
+# fichiers d'environnement
+.env
+.env.*
+
+# dépendances / build
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# éditeurs
+.vscode/
+.idea/
