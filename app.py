@@ -80,7 +80,7 @@ DEFAULT_PROFILE = {
 }
 
 ANSWER_OPTIONS = ["Oui", "Partiellement", "Non"]
-SECTORS = ["Services", "E-commerce", "Industrie", "Santé", "Finance", "Autre"]
+SECTORS = ["Services","Commerce","E-commerce","Industrie","Santé","Finance","Éducation","Transport / Logistique","BTP / Construction","Technologie / Informatique","Secteur public","Autre"]
 BUSINESS_MODELS = ["B2B", "B2C", "B2B et B2C"]
 CUSTOMERS = ["entreprises", "grand public", "mixte"]
 SENSITIVITY = ["faible", "moyen", "élevé", "très élevé"]

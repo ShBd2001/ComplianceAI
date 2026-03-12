@@ -1,4 +1,4 @@
-# ComplianceAI Adaptive Studio
+# ComplianceAI 
 
 Application Streamlit de diagnostic conformité / cyber / RSE avec questionnaire adaptatif.
 
